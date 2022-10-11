@@ -1,5 +1,3 @@
 # odin-recipes
 
-```
-print("Hello World!") 
-```
+This is a simple mock-webpage that's suppose to mimick a simple recipe website. 
